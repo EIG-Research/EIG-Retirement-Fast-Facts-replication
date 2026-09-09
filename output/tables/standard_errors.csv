@@ -1,0 +1,9 @@
+"measure","group","estimate","se","ci_low","ci_high"
+"H1 lacks employer access","All workers",0.5171,0.0055,0.5063,0.5279
+"H1 by class","Government",0.3023,0.0145,0.2738,0.3307
+"H1 by class","Private",0.4906,0.0063,0.4782,0.5031
+"H1 by class","Self-employed",1,0,1,1
+"P2 participation (all workers)","All workers",0.4296,0.0053,0.4193,0.44
+"M1 employer-match receipt (all workers)","All workers",0.3673,0.0053,0.3569,0.3776
+"P1 participation | access (plan type observed)","All workers",0.9166,0.0044,0.9079,0.9253
+"P1 participation | access (incl. type-unobserved; conservative floor)","All workers",0.8632,0.0055,0.8524,0.8739

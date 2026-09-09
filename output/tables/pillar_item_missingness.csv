@@ -1,0 +1,14 @@
+"item","n_universe","wt_universe","n_missing","missing_share_wt"
+"EOWN_THR401 (owns 401k-type, any source)",12330,147316147.785836,0,0
+"EOWN_IRAKEO (owns IRA/Keogh, any source)",12330,147316147.785836,0,0
+"EOWN_PENSION (owns DB/cash-balance, any source)",12330,147316147.785836,0,0
+"EMJOB_401 | owns 401k-type",5966,70701949.605226,0,0
+"EMJOB_IRA | owns IRA/Keogh",2878,32766353.0240625,0,0
+"EMJOB_PEN | owns DB/cash-balance",1978,22882461.8323488,0,0
+"EPENSNYN | no plan through main employer",6510,78107983.3897956,0,0
+"EINCPENS | employer offers a plan",1528,19011470.0888298,0,0
+"ESCNTYN_401 | holds 401k-type via employer",5023,59704387.1280562,0,0
+"ESCNTYN_IRA | holds IRA/Keogh via employer",474,5743675.70730263,0,0
+"ESCNTYN_PEN | holds DB via employer",1263,14892804.671367,0,0
+"EECNTYN_401 | holds 401k-type via employer",5023,59704387.1280562,0,0
+"EECNTYN_IRA | holds IRA/Keogh via employer",474,5743675.70730263,0,0

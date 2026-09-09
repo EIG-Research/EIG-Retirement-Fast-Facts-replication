@@ -1,0 +1,6 @@
+"component","sipp_busd","benchmark_busd","benchmark","ratio"
+"401(k)/403(b)/TSP employee contributions (incl. Roth-designated)",504,607.4,"BEA NIPA 2024 DC household contributions $607.4B (T7.25 Y344RC, all sectors; BEA 2025 annual update; NIPA includes some plan types SIPP's 401(k) item may not)",0.83
+"DB/cash-balance employee contributions",51.7,84.7,"BEA NIPA 2024 DB employee contributions: $84.7B (0.5 pvt Y241RC + 7.8 fed Y276RC + 76.4 s&l S25120; BEA 2025 annual update; federal household DB contributions are entirely civilian - military line Y278RC = 0)",0.61
+"Employer-provided IRA (SEP/SIMPLE), employee + employer",62.6,29.4,"IRS SOI TY2023 SEP+SIMPLE contributions: $29.4B (incl. employer share; TY2023 is the LATEST published, TY2024 not yet released, so this benchmark lags the SIPP year by one)",2.13
+"Employer DC/IRA contributions",332.8,309.6,"BEA NIPA 2024 DC employer contributions $309.6B (T7.25 Y340RC; BEA 2025 annual update; SIPP row also includes SEP/SIMPLE employer dollars NIPA books elsewhere)",1.07
+"Imputed employer DB contributions (accrued, by construction)",306.8,306.8,"BEA NIPA 2024 employer DB normal cost, federal CIVILIAN scope: $306.8B (actual+imputed employer contribs, NIPA T7.22 / T7.23 civilian lines / T7.24; the same file drives the stage-5 imputation, so equal by construction)",1

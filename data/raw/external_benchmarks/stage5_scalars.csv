@@ -1,0 +1,2 @@
+param,value,source,vintage,notes
+roth401k_dollar_scale,0.75,"IRS SOI Form W-2 statistics TY2020 (20in04w2all.xlsx) Table 4.D: Roth = $32.303B of $310.162B 401(k) deferral dollars (10.4%) vs ~13.6% of contributor instances; dollars/participants ~= 0.766, adjusted DOWN to 0.75 (a deliberate ~2% conservative haircut, not rounding)",TY2020,"Applied to the Vanguard HAS 2024 Fig.43 participant-usage-by-income gradient to convert participant shares to a dollar-share proxy; upper-bound proxy, disclosed"

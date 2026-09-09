@@ -1,0 +1,8 @@
+"step","n_persons","wt_total"
+"00 raw extract from pu2025.dta (all person-months)",379215,3983666264
+"01 December reference month",31382,332825505
+"02 ages 18-64",17052,199981294.569474
+"03 employed (RMESR 1-5)",12468,149094768.065199
+"04 with a December job on any line (EJB1-6 JBORSE 1-3)",12423,148621129.525874
+"04b civilian labor force (drop households w/ active-duty military)",12330,147316147.785836
+"05 analysis frame (derived)",12330,147316147.785836

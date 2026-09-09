@@ -1,0 +1,41 @@
+# .gitignore for the public replication repository.
+# Keeps raw/large/derived data and local cruft out of version control.
+
+# Raw data inputs: the SIPP microdata is not redistributed (see DATA.md for how to
+# obtain it). The two small, public benchmark directories that the pipeline reads ARE
+# tracked, so they are re-included below.
+data/raw/*
+!data/raw/external_benchmarks/
+!data/raw/irs_soi/
+
+# Large survey/statistical formats and derived checkpoints.
+*.dta
+*.sas7bdat
+*.parquet
+*.rds
+*.RData
+
+# Derived analysis checkpoints written by the pipeline.
+data/processed/
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.Ruserdata
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*~
+.vscode/
+.idea/
+
+# Logs and scratch
+output/logs/
+*.log

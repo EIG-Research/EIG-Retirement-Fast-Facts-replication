@@ -1,0 +1,10 @@
+series,population,external_value,vintage,source
+access,Private industry workers,0.72,March 2024,"BLS National Compensation Survey: Employee Benefits in the United States, March 2024, Table 1 (news release ebs2_09192024, verified 2026-09-08). Establishment-reported availability of retirement benefits."
+participation,Private industry workers,0.53,March 2024,"BLS NCS Employee Benefits March 2024, Table 1 (ebs2_09192024, verified 2026-09-08)."
+takeup,Private industry workers,0.73,March 2024,"BLS NCS Employee Benefits March 2024, Table 1 (ebs2_09192024, verified 2026-09-08). Take-up = participation among workers with access."
+access,Civilian workers (private + state/local gov),0.75,March 2024,"BLS NCS Employee Benefits March 2024, Table 1 (ebs2_09192024, verified 2026-09-08). BLS civilian scope excludes federal workers, the self-employed, and the military."
+participation,Civilian workers (private + state/local gov),0.57,March 2024,"BLS NCS Employee Benefits March 2024, Table 1 (ebs2_09192024, verified 2026-09-08)."
+takeup,Civilian workers (private + state/local gov),0.76,March 2024,"BLS NCS Employee Benefits March 2024, Table 1 (ebs2_09192024, verified 2026-09-08)."
+access,State and local government workers,0.92,March 2024,"BLS NCS Employee Benefits March 2024, Table 1 (ebs2_09192024, verified 2026-09-08)."
+participation,State and local government workers,0.82,March 2024,"BLS NCS Employee Benefits March 2024, Table 1 (ebs2_09192024, verified 2026-09-08)."
+takeup,State and local government workers,0.89,March 2024,"BLS NCS Employee Benefits March 2024, Table 1 (ebs2_09192024, verified 2026-09-08)."

@@ -1,0 +1,7 @@
+"group","workers_millions","share_of_all_workers","share_of_private","lacking_access_rate","icons_total","icons_lacking"
+"All U.S. workers",147.316147785836,1,NA,0.517118073208764,NA,NA
+"Employees only (private + government)",132.285474414946,0.897969953757271,NA,0.462251576713931,NA,NA
+"Government",19.9197076873028,0.135217408184346,NA,0.302256667302245,NA,NA
+"Private (all)",112.365766727643,0.762752545572924,1,0.49061476881195,100,49
+"Full-time (private)",88.6732175428953,NA,0.789147977406899,0.415921758226057,79,33
+"Part-time (private)",23.6925491847482,NA,0.210852022593101,0.770165505415686,21,16

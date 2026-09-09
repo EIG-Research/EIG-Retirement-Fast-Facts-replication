@@ -1,0 +1,31 @@
+earn_decile,measure,share
+1,Lacks employer access,0.878154103993018
+2,Lacks employer access,0.823832460462956
+3,Lacks employer access,0.777305503715389
+4,Lacks employer access,0.6141897570741
+5,Lacks employer access,0.490906756188565
+6,Lacks employer access,0.424241590555168
+7,Lacks employer access,0.329818415827586
+8,Lacks employer access,0.254512236519746
+9,Lacks employer access,0.22101931178674
+10,Lacks employer access,0.136483675101939
+1,Doesn't participate,0.9065663824005715
+2,Doesn't participate,0.872414251957791
+3,Doesn't participate,0.845117248309711
+4,Doesn't participate,0.6965806546207389
+5,Doesn't participate,0.563460255632243
+6,Doesn't participate,0.517898216737246
+7,Doesn't participate,0.388359978011137
+8,Doesn't participate,0.34348895837121696
+9,Doesn't participate,0.292961599415134
+10,Doesn't participate,0.183059236433048
+1,No employer contribution,0.9112672552395211
+2,No employer contribution,0.881192048489174
+3,No employer contribution,0.860864800852723
+4,No employer contribution,0.706261340415962
+5,No employer contribution,0.59120321635733
+6,No employer contribution,0.5622607092191829
+7,No employer contribution,0.454369793389756
+8,No employer contribution,0.400755175591733
+9,No employer contribution,0.33261311070324096
+10,No employer contribution,0.24434182097804003

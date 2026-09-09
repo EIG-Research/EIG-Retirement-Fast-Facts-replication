@@ -1,0 +1,11 @@
+Notes for te_decile*.csv, te_quintile_cbo_compare.csv, te_benchmarks.csv, te_se.csv:
+- SIPP public-use earnings/income/contribution amounts are topcoded and the survey top tail is
+  compressed relative to tax-return data, biasing top-decile/quintile TE shares (and all rows)
+  DOWNWARD relative to tax-return-based estimates (CBO/Treasury). A SOI top-tail calibration is
+  a documented future extension, deliberately not applied. Exact SIPP topcode rules per variable
+  are pending verification in the dataset registry.
+- Replicate-weight SEs (te_se.csv) condition on point-estimate tax parameters and imputation
+  shares: they capture sampling variability only. The dominant uncertainty is the scenario range
+  (r = 3.5% vs 6%; DB accrued vs actual cash; withdrawal-MTR scale; Roth dollar scale), published
+  as sensitivity rows in te_benchmarks.csv.
+- All dollar values are nominal CY2024.

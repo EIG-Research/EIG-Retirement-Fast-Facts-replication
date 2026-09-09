@@ -1,0 +1,8 @@
+income_lo,income_hi,roth_usage_if_offered,source,vintage,url
+0,14999,0.09,"Vanguard How America Saves 2024, Figure 43, p.44 (participant income bands; usage if offered, 2023 estimated)",PY2023,https://institutional.vanguard.com/content/dam/inst/iig-transformation/insights/pdf/2024/has/how_america_saves_report_2024.pdf
+15000,29999,0.08,"Vanguard How America Saves 2024, Figure 43, p.44",PY2023,https://institutional.vanguard.com/content/dam/inst/iig-transformation/insights/pdf/2024/has/how_america_saves_report_2024.pdf
+30000,49999,0.10,"Vanguard How America Saves 2024, Figure 43, p.44",PY2023,https://institutional.vanguard.com/content/dam/inst/iig-transformation/insights/pdf/2024/has/how_america_saves_report_2024.pdf
+50000,74999,0.15,"Vanguard How America Saves 2024, Figure 43, p.44",PY2023,https://institutional.vanguard.com/content/dam/inst/iig-transformation/insights/pdf/2024/has/how_america_saves_report_2024.pdf
+75000,99999,0.20,"Vanguard How America Saves 2024, Figure 43, p.44",PY2023,https://institutional.vanguard.com/content/dam/inst/iig-transformation/insights/pdf/2024/has/how_america_saves_report_2024.pdf
+100000,149999,0.22,"Vanguard How America Saves 2024, Figure 43, p.44",PY2023,https://institutional.vanguard.com/content/dam/inst/iig-transformation/insights/pdf/2024/has/how_america_saves_report_2024.pdf
+150000,999999999,0.19,"Vanguard How America Saves 2024, Figure 43, p.44",PY2023,https://institutional.vanguard.com/content/dam/inst/iig-transformation/insights/pdf/2024/has/how_america_saves_report_2024.pdf

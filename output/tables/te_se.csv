@@ -1,0 +1,29 @@
+"quantity","estimate_busd","se_busd","ci95_lo","ci95_hi"
+"Income-tax TE, observed flows",128.9889,4.2035,120.75,137.2278
+"Payroll-tax TE, observed flows",37.394,1.2978,34.8502,39.9378
+"Combined TE, observed flows",166.3829,5.0382,156.508,176.2578
+"Income-tax TE, CBO-comparable",182.2937,5.3316,171.8438,192.7436
+"Payroll-tax TE, CBO-comparable",73.4033,2.1448,69.1994,77.6071
+"Combined TE, CBO-comparable",255.697,6.9335,242.1072,269.2867
+"Income-tax TE, CBO-comparable r=6% (2024 rate environment)",282.6507,8.9773,265.0552,300.2462
+"Combined TE, CBO-comparable r=6% (2024 rate environment)",356.054,10.3869,335.6957,376.4122
+"Decile 1 share of combined TE (CBO-comparable)",-0.0007,0.0008,-0.0024,0.0009
+"Decile 2 share of combined TE (CBO-comparable)",0.0053,0.0021,0.0012,0.0094
+"Decile 3 share of combined TE (CBO-comparable)",0.0166,0.0021,0.0124,0.0208
+"Decile 4 share of combined TE (CBO-comparable)",0.0241,0.0028,0.0185,0.0296
+"Decile 5 share of combined TE (CBO-comparable)",0.0479,0.0081,0.032,0.0637
+"Decile 6 share of combined TE (CBO-comparable)",0.0702,0.0063,0.058,0.0825
+"Decile 7 share of combined TE (CBO-comparable)",0.1136,0.0077,0.0985,0.1287
+"Decile 8 share of combined TE (CBO-comparable)",0.1703,0.0104,0.1499,0.1907
+"Decile 9 share of combined TE (CBO-comparable)",0.2231,0.0122,0.1993,0.247
+"Decile 10 share of combined TE (CBO-comparable)",0.3297,0.015,0.3003,0.3591
+"Mean TE per worker, has employer access",3394.2587,86.5694,3224.5827,3563.9348
+"Mean TE per worker, NOT has employer access",81.496,10.7064,60.5114,102.4805
+"Share of worker TE dollars, has employer access",0.9749,0.0033,0.9684,0.9814
+"Share benefiting (TE>0), has employer access",0.9131,0.0045,0.9042,0.922
+"Share benefiting (TE>0), NOT has employer access",0.0367,0.0027,0.0314,0.042
+"Mean TE per worker, receives employer match",3464.5366,91.0345,3286.1091,3642.9642
+"Mean TE per worker, NOT receives employer match",645.9761,37.556,572.3664,719.5858
+"Share of worker TE dollars, receives employer match",0.7569,0.0121,0.7332,0.7805
+"Share benefiting (TE>0), receives employer match",0.9832,0.0019,0.9794,0.9869
+"Share benefiting (TE>0), NOT receives employer match",0.1561,0.0053,0.1458,0.1665

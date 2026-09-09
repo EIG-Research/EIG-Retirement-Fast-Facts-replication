@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the work as below."
+title: "The U.S. Retirement System: Fast Facts"
+abstract: >-
+  Replication materials for an Economic Innovation Group analysis of access,
+  participation, and employer contributions in the U.S. retirement savings system,
+  using the Survey of Income and Program Participation (2025 release, December 2024
+  reference month), together with a CBO-style present-value estimate of the federal
+  retirement tax expenditure and a measure of the Saver's Match eligibility-versus-access
+  gap.
+type: software
+authors:
+  - family-names: "Glasner"
+    given-names: "Benjamin"
+    affiliation: "Economic Innovation Group"
+date-released: "2026-09-09"
+year: 2026
+license: MIT
+keywords:
+  - retirement savings
+  - SIPP
+  - tax expenditure
+  - Saver's Match
+  - retirement plan access
+url: "https://github.com/EIG-Research/EIG-Retirement-Fast-Facts-replication"
+repository-code: "https://github.com/EIG-Research/EIG-Retirement-Fast-Facts-replication"

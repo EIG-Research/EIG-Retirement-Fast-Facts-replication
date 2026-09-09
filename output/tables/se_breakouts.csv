@@ -1,0 +1,82 @@
+"measure","dimension","group","estimate","se","ci_low","ci_high","n_num","n_den"
+"Lacks access (private)","earn_decile","1",0.8782,0.0139,0.8509,0.9054,608,698
+"Participates (private)","earn_decile","1",0.0934,0.012,0.07,0.1169,71,698
+"Employer contribution (private)","earn_decile","1",0.0887,0.012,0.0651,0.1123,66,698
+"Participates | no employer contribution (private)","earn_decile","1",0.0129,0.0043,0.0045,0.0214,11,632
+"Lacks access (private)","earn_decile","2",0.8238,0.0154,0.7936,0.8541,762,934
+"Participates (private)","earn_decile","2",0.1276,0.013,0.1021,0.1531,123,934
+"Employer contribution (private)","earn_decile","2",0.1188,0.0126,0.0941,0.1436,118,934
+"Participates | no employer contribution (private)","earn_decile","2",0.0204,0.0052,0.0102,0.0305,18,816
+"Lacks access (private)","earn_decile","3",0.7773,0.0176,0.7428,0.8118,774,1001
+"Participates (private)","earn_decile","3",0.1549,0.015,0.1255,0.1843,169,1001
+"Employer contribution (private)","earn_decile","3",0.1391,0.0124,0.1149,0.1634,154,1001
+"Participates | no employer contribution (private)","earn_decile","3",0.0393,0.0095,0.0207,0.0579,31,847
+"Lacks access (private)","earn_decile","4",0.6142,0.019,0.577,0.6514,597,980
+"Participates (private)","earn_decile","4",0.3034,0.0181,0.268,0.3388,302,980
+"Employer contribution (private)","earn_decile","4",0.2937,0.0185,0.2574,0.3301,287,980
+"Participates | no employer contribution (private)","earn_decile","4",0.0496,0.0091,0.0318,0.0673,37,693
+"Lacks access (private)","earn_decile","5",0.4909,0.0202,0.4513,0.5305,474,930
+"Participates (private)","earn_decile","5",0.4365,0.0203,0.3968,0.4763,386,930
+"Employer contribution (private)","earn_decile","5",0.4088,0.0203,0.369,0.4486,369,930
+"Participates | no employer contribution (private)","earn_decile","5",0.0841,0.0148,0.0552,0.1131,40,561
+"Lacks access (private)","earn_decile","6",0.4242,0.0204,0.3842,0.4643,418,962
+"Participates (private)","earn_decile","6",0.4821,0.0199,0.4431,0.5211,459,962
+"Employer contribution (private)","earn_decile","6",0.4377,0.0194,0.3997,0.4758,419,962
+"Participates | no employer contribution (private)","earn_decile","6",0.1377,0.0207,0.0971,0.1783,70,543
+"Lacks access (private)","earn_decile","7",0.3298,0.0172,0.2962,0.3635,313,909
+"Participates (private)","earn_decile","7",0.6116,0.0182,0.576,0.6473,537,909
+"Employer contribution (private)","earn_decile","7",0.5456,0.0191,0.5083,0.583,481,909
+"Participates | no employer contribution (private)","earn_decile","7",0.1761,0.02,0.1369,0.2152,71,428
+"Lacks access (private)","earn_decile","8",0.2545,0.0185,0.2183,0.2907,240,917
+"Participates (private)","earn_decile","8",0.6565,0.0192,0.6189,0.6941,599,917
+"Employer contribution (private)","earn_decile","8",0.5992,0.0197,0.5606,0.6379,556,917
+"Participates | no employer contribution (private)","earn_decile","8",0.2162,0.0275,0.1623,0.2701,71,361
+"Lacks access (private)","earn_decile","9",0.221,0.0189,0.184,0.258,200,922
+"Participates (private)","earn_decile","9",0.707,0.02,0.6678,0.7463,661,922
+"Employer contribution (private)","earn_decile","9",0.6674,0.0208,0.6266,0.7082,613,922
+"Participates | no employer contribution (private)","earn_decile","9",0.2031,0.0268,0.1506,0.2557,69,309
+"Lacks access (private)","earn_decile","10",0.1365,0.0134,0.1103,0.1627,141,1003
+"Participates (private)","earn_decile","10",0.8169,0.0145,0.7885,0.8454,813,1003
+"Employer contribution (private)","earn_decile","10",0.7557,0.0157,0.725,0.7863,748,1003
+"Participates | no employer contribution (private)","earn_decile","10",0.3491,0.0386,0.2734,0.4247,88,255
+"Participates | no employer contribution (private)","earn_half","Bottom half",0.039,0.0039,0.0314,0.0466,137,3549
+"Participates | no employer contribution (private)","earn_half","Top half",0.1988,0.0124,0.1745,0.2232,369,1896
+"Employer contribution (employees)","race_eth","Asian (NH)",0.5079,0.0209,0.467,0.5488,425,872
+"Employer contribution (employees)","race_eth","Hispanic",0.2708,0.0118,0.2476,0.294,588,2332
+"Employer contribution (employees)","race_eth","Black (NH)",0.3185,0.0161,0.2868,0.3501,360,1037
+"Employer contribution (employees)","race_eth","White (NH)",0.4505,0.0076,0.4356,0.4654,2936,6416
+"Employer contribution (employees)","race_eth","Other (NH)",0.3468,0.0286,0.2908,0.4028,120,324
+"Employer contribution (employees)","educ_grp","Less than HS",0.1657,0.0191,0.1282,0.2031,99,671
+"Employer contribution (employees)","educ_grp","HS grad",0.2758,0.011,0.2543,0.2973,791,2807
+"Employer contribution (employees)","educ_grp","Some college/assoc",0.3498,0.0113,0.3277,0.3719,1005,2808
+"Employer contribution (employees)","educ_grp","Bachelor's+",0.5322,0.0093,0.5139,0.5505,2534,4695
+"Lacks access (private)","race_educ: White (NH)","Less than HS",0.7695,0.0407,0.6897,0.8493,140,182
+"Lacks access (private)","race_educ: White (NH)","HS grad",0.5603,0.0175,0.526,0.5946,745,1342
+"Lacks access (private)","race_educ: White (NH)","Some college/assoc",0.4846,0.0157,0.4539,0.5154,682,1417
+"Lacks access (private)","race_educ: White (NH)","Bachelor's+",0.2745,0.0103,0.2542,0.2948,665,2417
+"Lacks access (private)","race_eth","White (NH)",0.4214,0.0083,0.4052,0.4377,2232,5358
+"Lacks access (private)","race_educ: Black (NH)","Less than HS",0.7131,0.08,0.5564,0.8699,32,42
+"Lacks access (private)","race_educ: Black (NH)","HS grad",0.7128,0.0283,0.6573,0.7682,197,293
+"Lacks access (private)","race_educ: Black (NH)","Some college/assoc",0.5829,0.0377,0.5089,0.6568,148,266
+"Lacks access (private)","race_educ: Black (NH)","Bachelor's+",0.4109,0.0376,0.3372,0.4847,88,234
+"Lacks access (private)","race_eth","Black (NH)",0.5765,0.0207,0.5359,0.6172,465,835
+"Lacks access (private)","race_educ: Hispanic","Less than HS",0.8657,0.0205,0.8255,0.9059,325,370
+"Lacks access (private)","race_educ: Hispanic","HS grad",0.752,0.0214,0.7101,0.7938,551,720
+"Lacks access (private)","race_educ: Hispanic","Some college/assoc",0.648,0.0245,0.5999,0.6961,343,529
+"Lacks access (private)","race_educ: Hispanic","Bachelor's+",0.4107,0.0308,0.3504,0.4711,183,426
+"Lacks access (private)","race_eth","Hispanic",0.6629,0.0136,0.6363,0.6895,1402,2045
+"Lacks access (private)","race_educ: Asian (NH)","Less than HS",0.7013,0.0911,0.5227,0.8798,22,30
+"Lacks access (private)","race_educ: Asian (NH)","HS grad",0.6372,0.0557,0.5281,0.7463,53,79
+"Lacks access (private)","race_educ: Asian (NH)","Some college/assoc",0.5995,0.055,0.4916,0.7074,68,120
+"Lacks access (private)","race_educ: Asian (NH)","Bachelor's+",0.2761,0.0232,0.2306,0.3215,143,520
+"Lacks access (private)","race_eth","Asian (NH)",0.3707,0.0209,0.3297,0.4117,286,749
+"Lacks access (government)","gov_subclass","Federal",0.2334,0.0277,0.179,0.2878,71,332
+"Lacks access (government)","gov_subclass","State",0.3023,0.0221,0.259,0.3456,221,721
+"Lacks access (government)","gov_subclass","Local",0.3356,0.0238,0.2891,0.3822,216,672
+"Lacks access (government)","ft_pt","Full-time",0.2362,0.0142,0.2083,0.2641,337,1463
+"Lacks access (government)","ft_pt","Part-time",0.6571,0.0382,0.5823,0.732,171,262
+"Lacks access (government)","age_band","18-24",0.6801,0.0561,0.5702,0.79,78,106
+"Lacks access (government)","educ_grp","Less than HS",0.5028,0.11,0.2872,0.7185,19,33
+"SM income-eligible (share of workers)","Overall","All workers",0.2012,0.0043,0.1927,0.2097,2515,12324
+"SM wedge (share of eligible)","Overall","Eligible",0.707,0.0112,0.6849,0.729,1744,2515
+"Decile-10 / decile-1 participation ratio | no employer contribution (private)","earn_decile","10 vs 1",27.02,10.17,7.07,46.96,88,11

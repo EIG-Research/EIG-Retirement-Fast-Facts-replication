@@ -1,0 +1,17 @@
+race,educ,lacks_share,n_den,hue
+White (NH),Less than high school,0.769514473838194,182,above_avg
+White (NH),High school graduate,0.560314328382118,1343,above_avg
+White (NH),Some college / associate,0.484618077769298,1418,series
+White (NH),Bachelor's+,0.274481590132016,2417,series
+Black (NH),Less than high school,0.71313446278205594,42,above_avg
+Black (NH),High school graduate,0.712781234330261,293,above_avg
+Black (NH),Some college / associate,0.582880569651693,266,above_avg
+Black (NH),Bachelor's+,0.410914585338018,234,series
+Hispanic,Less than high school,0.865698223073078,370,above_avg
+Hispanic,High school graduate,0.751982132320656,720,above_avg
+Hispanic,Some college / associate,0.647964605801258,529,above_avg
+Hispanic,Bachelor's+,0.410722230301847,426,series
+Asian (NH),Less than high school,0.701253821782944,31,above_avg
+Asian (NH),High school graduate,0.637184712315703,79,above_avg
+Asian (NH),Some college / associate,0.599487087932616,120,above_avg
+Asian (NH),Bachelor's+,0.276080332670899,520,series
